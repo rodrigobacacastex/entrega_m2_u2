@@ -1,0 +1,117 @@
+#contenedora1{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border: solid black;
+    width: 500px;
+}
+
+.caja1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    line-height: 200px;
+    text-align: center;
+    position: relative;
+    left: 300px;
+}
+
+.caja2{
+    width: 200px;
+    height: 200px;
+    background-color:blue;
+    color: white;
+    line-height: 200px;
+    text-align: center;
+    position: relative;
+    left: 300px;
+}
+
+.caja3{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    color: white;
+    line-height: 200px;
+    text-align: center;
+    position: relative;
+    left: 300px;
+}
+
+#contenedora2{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: solid black;
+    width: 500px;
+    height: 500px;
+}
+
+.caja4{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    line-height: 200px;
+    text-align: center;
+}
+
+.caja5{
+    width: 200px;
+    height: 200px;
+    background-color:blue;
+    color: white;
+    line-height: 200px;
+    text-align: center;
+}
+
+.caja6{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    color: white;
+    line-height: 200px;
+    text-align: center;
+}
+
+#contenedora3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    border: solid black;
+}
+
+.caja7{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    line-height: 200px;
+    text-align: center;
+}
+
+.caja8{
+    width: 200px;
+    height: 200px;
+    background-color:blue;
+    color: white;
+    line-height: 200px;
+    text-align: center;
+}
+
+.caja9{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    color: white;
+    line-height: 200px;
+    text-align: center;
+}
+
+h2{
+    text-decoration: underline;
+}
